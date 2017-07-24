@@ -16,10 +16,11 @@ h1{
     
  .education-all {
   
-  width: 300px
-  border: 25px
-  padding: 2px
+  width: 300px;
+  border: 25px;
+  padding: 2px;
   margin: auto;
+  position: relative;
   
   
   
@@ -38,10 +39,11 @@ h1{
  
 }
 .professional-experience-all{
- width: 300px
-  border: 25px
-  padding: 2px
-  margin:auto
+ width: 300px;
+  border: 25px;
+  padding: 2px;
+  margin:auto;
+  position: relative;
 }
 .Professional-Experience-title{
     
@@ -56,10 +58,11 @@ h1{
 }
 
 .non-professional-experience-all{
- width: 300px
-  border: 25px
-  padding: 2px
-  margin:auto
+ width: 300px;
+  border: 25px;
+  padding: 2px;
+  margin:auto;
+  position: relative;
 }
 
 .Non-professional-experience-title{
@@ -75,10 +78,11 @@ h1{
     
 }
 .technical-skills-all{
- width: 300px
-  border: 25px
-  padding: 2px
-  margin:auto
+ width: 300px;
+  border: 25px;
+  padding: 2px;
+  margin:auto;
+  position: relative;
 }
 .Technical-skills-title{
  font-family: Bellefair, serif;
@@ -94,10 +98,11 @@ color: #34768E;
     
 }
 .other-all{
- width: 300px
-  border: 25px
-  padding: 2px
-  margin:auto
+ width: 300px;
+  border: 25px;
+  padding: 2px;
+  margin:auto;
+  position: relative;
 }
 .other-title{
  color: #34768E;
