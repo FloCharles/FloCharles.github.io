@@ -14,15 +14,13 @@ h1{
    
     
     
- .education-all {
+ .education-all{
   
-  width: 300px;
+  width: 500px;
   border: 25px;
   padding: 2px;
   margin: auto;
   position: relative;
-  
-  
   
   
   
@@ -39,7 +37,7 @@ h1{
  
 }
 .professional-experience-all{
- width: 300px;
+ width: 500px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -58,7 +56,7 @@ h1{
 }
 
 .non-professional-experience-all{
- width: 300px;
+ width: 500px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -78,7 +76,7 @@ h1{
     
 }
 .technical-skills-all{
- width: 300px;
+ width: 500px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -98,7 +96,7 @@ color: #34768E;
     
 }
 .other-all{
- width: 300px;
+ width: 500px;
   border: 25px;
   padding: 2px;
   margin:auto;
