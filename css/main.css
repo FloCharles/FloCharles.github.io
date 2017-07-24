@@ -9,5 +9,5 @@ head {
 
 body {
 font-family: arial, sans-serif;
- font-color: firebrick !important;
+ font-color: 'firebrick'; 
 }
