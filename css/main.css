@@ -1,6 +1,7 @@
 body { background-color: #32c3ff; padding: 0; margin: 0; }
 
-div { width: 100%; height: 2px; background-color: white; position: relative; padding: 0; }
+.backround{ 
+    div { width: 100%; height: 2px; background-color: white; position: relative; padding: 0; }
 .ombre:first-child {opacity: 0.98; position: absolute; }
 .ombre:nth-child(2-6) {opacity:0.98; }
 .ombre:nth-child(7) {opacity:0.976; }
@@ -248,7 +249,7 @@ div { width: 100%; height: 2px; background-color: white; position: relative; pad
 .ombre:nth-child(249) {opacity:0.008; }
 .ombre:nth-child(250) {opacity:0.004; }
 .ombre:nth-child(251) {opacity:0; }
-
+} 
 h1{
     
   font-family: "Harlow Solid Italic";
