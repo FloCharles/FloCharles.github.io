@@ -1,5 +1,7 @@
 
-
+body{
+    background: #F5F5F5; 
+} 
 .education-title{
     
  font-family: Bellefair, serif;
@@ -7,7 +9,6 @@
 }
 .Education {
     font-family: "Arial-Narrow", sans-serif;
-    background: #F5F5F5; 
     color: #6A5ACD;
     
 }
