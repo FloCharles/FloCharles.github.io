@@ -1,6 +1,6 @@
 
 header, body, footer{
- background: linear-gradient(rgb(239, 221, 255), rgb(239, 160, 255));
+ background: linear-gradient(rgb(239, 225, 255), rgb(239, 204, 255));
    
    
 }
@@ -59,9 +59,23 @@ h1{
 .Technical-skills{
     
  font-family: "Arial Narrow", serif;
-   ;
-
-    
     
     
 }
+
+.other-title{
+ 
+ font-family: Bellefair, serif;
+
+     font-style: bold;
+ 
+}
+
+.other{
+ 
+  font-family: "Arial Narrow", serif;
+}
+ 
+ 
+ 
+ 
