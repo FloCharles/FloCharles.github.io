@@ -1,9 +1,4 @@
 
-*{
- text-align: center;
-
-
-}
 
 header, body, footer{
  background: linear-gradient(rgba(219, 222, 255, 0.3), rgba(146, 197, 255, 0.5));
@@ -17,7 +12,18 @@ h1{
    
     
     
-    
+ .education-all {
+  
+  width: 300px
+  border: 25px
+  padding: 2px
+  margin:3px
+  
+  
+  
+  
+  
+ }
 } 
 .Education-title{
     
@@ -29,7 +35,12 @@ h1{
     font-family: "Arial Narrow", sans-serif;
  
 }
-
+.professional-experience-all{
+ width: 300px
+  border: 25px
+  padding: 2px
+  margin:3px
+}
 .Professional-Experience-title{
     
   font-family: Bellefair, serif;
@@ -42,6 +53,12 @@ h1{
 
 }
 
+.non-professional-experience-all{
+ width: 300px
+  border: 25px
+  padding: 2px
+  margin:3px
+}
 
 .Non-professional-experience-title{
     font-family: Bellefair, serif;
@@ -55,7 +72,12 @@ h1{
     
     
 }
-
+.technical-skills-all{
+ width: 300px
+  border: 25px
+  padding: 2px
+  margin:3px
+}
 .Technical-skills-title{
  font-family: Bellefair, serif;
 color: #34768E;
@@ -69,7 +91,12 @@ color: #34768E;
     
     
 }
-
+.other-all{
+ width: 300px
+  border: 25px
+  padding: 2px
+  margin:3px
+}
 .other-title{
  color: #34768E;
  font-family: Bellefair, serif;
