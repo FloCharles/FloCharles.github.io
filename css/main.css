@@ -7,8 +7,7 @@ body{
 h1{
     
   font-family: "Harlow Solid Italic";
-  color: #FF9B32;
-    font-style: italic;
+      font-style: italic;
     
     
     
@@ -16,44 +15,42 @@ h1{
 .Education-title{
     
  font-family: Bellefair, serif;
-    color: #243D61;
-    font-style: bold;
+  font-style: bold;
 }
 .Education {
     font-family: "Arial Narrow", sans-serif;
-    color: #6074EB;
+    
 }
 
 .Professional-Experience-title{
     
   font-family: Bellefair, serif;
-    color: #243D61;   
+   
     font-style: bold;
     
 } 
 .Professional-Experience{
     font-family: "Arial Narrow", sans-serif;
-    color: #6074EB;  
     
 }
 
 
 .Non-professional-experience-title{
     font-family: Bellefair, serif;
-    color: #243D61; 
+
     font-style: bold;
     
 }
 
 .Non-professional-experience{
      font-family: "Arial Narrow", serif;
-   color: #6074EB;
+
     
 }
 
 .Technical-skills-title{
  font-family: Bellefair, serif;
-    color: #243D61; 
+
      font-style: bold;
 }
 
@@ -61,7 +58,7 @@ h1{
 .Technical-skills{
     
  font-family: "Arial Narrow", serif;
-   color: #6074EB;
+
     
     
     
