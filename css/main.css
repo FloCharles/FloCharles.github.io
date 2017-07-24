@@ -5,15 +5,22 @@ body{
 .Education-title{
     
  font-family: Bellefair, serif;
-    color: 36A5ACD;
+    color: #36A5ACD;
 }
 .Education {
     font-family: "Arial-Narrow", sans-serif;
-    color: #5E7BFF;
+    color: #6074EB;
 }
-.technical-skills-title{
+.Technical-skills-title{
  font-family: Bellefair, serif;
-    color: 
+    color: #36A5ACD; 
+        
+}
+Technical-skills{
+    
+ font-family: Bellefair, serif;
+   color: #6074EB
+    
     
     
 }
