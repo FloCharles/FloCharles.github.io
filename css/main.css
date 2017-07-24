@@ -1,13 +1,10 @@
 
-body{
-    background: #F5F5F5; 
-} 
-
 
 h1{
     
   font-family: "Harlow Solid Italic";
       font-style: italic;
+    background: #C3CEE1;
     
     
     
@@ -19,7 +16,7 @@ h1{
 }
 .Education {
     font-family: "Arial Narrow", sans-serif;
-    
+    background: #A3CEE1;
 }
 
 .Professional-Experience-title{
@@ -31,6 +28,7 @@ h1{
 } 
 .Professional-Experience{
     font-family: "Arial Narrow", sans-serif;
+    background: #BDCEE1;
     
 }
 
@@ -44,6 +42,7 @@ h1{
 
 .Non-professional-experience{
      font-family: "Arial Narrow", serif;
+    background: #75CEE1;
 
     
 }
@@ -58,6 +57,7 @@ h1{
 .Technical-skills{
     
  font-family: "Arial Narrow", serif;
+    background: #55CEE1;
 
     
     
