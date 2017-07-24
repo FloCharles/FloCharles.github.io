@@ -2,7 +2,7 @@
 body{
     background: #F5F5F5; 
 } 
-.education-title{
+.Education-title{
     
  font-family: Bellefair, serif;
     color: 36A5ACD;
@@ -10,5 +10,10 @@ body{
 .Education {
     font-family: "Arial-Narrow", sans-serif;
     color: #5E7BFF;
+}
+.technical-skills-title{
+ font-family: Bellefair, serif;
+    color: 
+    
     
 }
