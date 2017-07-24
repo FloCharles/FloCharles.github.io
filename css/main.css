@@ -17,6 +17,7 @@ h1{
     
  font-family: Bellefair, serif;
     color: #243D61;
+    font-style: bold;
 }
 .Education {
     font-family: "Arial Narrow", sans-serif;
@@ -26,7 +27,8 @@ h1{
 .Professional-Experience-title{
     
   font-family: Bellefair, serif;
-    color: #243D61;    
+    color: #243D61;   
+    font-style: bold;
     
 } 
 .Professional-Experience{
@@ -39,6 +41,7 @@ h1{
 .Non-professional-experience-title{
     font-family: Bellefair, serif;
     color: #243D61; 
+    font-style: bold;
     
 }
 
@@ -51,7 +54,7 @@ h1{
 .Technical-skills-title{
  font-family: Bellefair, serif;
     color: #243D61; 
-        
+     font-style: bold;
 }
 
 
