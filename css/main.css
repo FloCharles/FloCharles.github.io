@@ -1,5 +1,4 @@
-*{
- text-align: center;
+
   
 }
 
@@ -20,7 +19,7 @@ h1{
   width: 300px
   border: 25px
   padding: 2px
-  margin:3px
+  margin:auto
   
   
   
@@ -42,7 +41,7 @@ h1{
  width: 300px
   border: 25px
   padding: 2px
-  margin:3px
+  margin:auto
 }
 .Professional-Experience-title{
     
@@ -60,7 +59,7 @@ h1{
  width: 300px
   border: 25px
   padding: 2px
-  margin:3px
+  margin:auto
 }
 
 .Non-professional-experience-title{
@@ -79,7 +78,7 @@ h1{
  width: 300px
   border: 25px
   padding: 2px
-  margin:3px
+  margin:auto
 }
 .Technical-skills-title{
  font-family: Bellefair, serif;
@@ -98,7 +97,7 @@ color: #34768E;
  width: 300px
   border: 25px
   padding: 2px
-  margin:3px
+  margin:auto
 }
 .other-title{
  color: #34768E;
