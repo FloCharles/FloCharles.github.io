@@ -8,17 +8,45 @@ body{
     color: #243D61;
 }
 .Education {
-    font-family: "Arial-Narrow", sans-serif;
+    font-family: "Arial Narrow", sans-serif;
     color: #6074EB;
 }
+
+.Professional-experience-title{
+    
+  font-family: Bellefair, serif;
+    color: #243D61;    
+    
+} 
+.Professional-experience{
+    font-family: "Arial Narrow", sans-serif;
+    color: #6074EB;  
+    
+}
+
+
+.Non-professional-experience-title{
+    font-family: Bellefair, serif;
+    color: #243D61; 
+    
+}
+
+.Non-professional-experience{
+     font-family: "Arial Narrow", serif;
+   color: #6074EB
+    
+}
+
 .Technical-skills-title{
  font-family: Bellefair, serif;
     color: #243D61; 
         
 }
+
+
 Technical-skills{
     
- font-family: Bellefair, serif;
+ font-family: "Arial Narrow", serif;
    color: #6074EB
     
     
