@@ -1,6 +1,6 @@
 
 header, body, footer{
- background: linear-gradient(rgb(146, 197, 255), rgb(219, 222255));
+ background: linear-gradient(rgba(146, 197, 255, 5%), rgba(219, 222, 255, 5%));
    
    
 }
