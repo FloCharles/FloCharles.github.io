@@ -10,7 +10,7 @@ h1{
 }
     
  .education-all{
- width: 550px;
+ width: 650px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -23,6 +23,7 @@ h1{
     
  font-family: Bellefair, serif;
   font-style: bold;
+  text-align:center;
  color: #34768E;
 }
 .Education {
@@ -30,7 +31,7 @@ h1{
  
 }
 .professional-experience-all{
- width: 550px;
+ width: 650px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -39,7 +40,7 @@ h1{
 .Professional-Experience-title{
     
   font-family: Bellefair, serif;
-   
+   text-align:center;
     font-style: bold;
     color: #34768E;
 } 
@@ -49,7 +50,7 @@ h1{
 }
 
 .non-professional-experience-all{
- width: 550px;
+ width: 650px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -58,7 +59,7 @@ h1{
 
 .Non-professional-experience-title{
     font-family: Bellefair, serif;
-
+    text-align:center;
     font-style: bold;
     color: #34768E;
 }
@@ -69,7 +70,7 @@ h1{
     
 }
 .technical-skills-all{
- width: 550px;
+ width: 650px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -79,6 +80,7 @@ h1{
  font-family: Bellefair, serif;
 color: #34768E;
      font-style: bold;
+ text-align: center;
 }
 
 
@@ -89,7 +91,7 @@ color: #34768E;
     
 }
 .other-all{
- width: 550px;
+ width: 650px;
   border: 25px;
   padding: 2px;
   margin:auto;
@@ -97,6 +99,7 @@ color: #34768E;
 }
 .other-title{
  color: #34768E;
+ text-align:center;
  font-family: Bellefair, serif;
 
      font-style: bold;
