@@ -29,7 +29,7 @@ h1{
   border: 25px;
   padding: 2px;
   margin:auto;
-float: left;
+float: rightt;
 }
  
  
@@ -38,7 +38,7 @@ float: left;
   border: 25px;
   padding: 2px;
   margin:auto;
-float: left;
+float: right;
 }
   
   
@@ -59,7 +59,7 @@ float: left;
   border: 25px;
   padding: 2px;
   margin:auto;
-  float: left;
+  float: right;
 }
 .Professional-Experience-title{
     
@@ -97,7 +97,7 @@ float: left;
   border: 25px;
   padding: 2px;
   margin:auto;
-float: left;
+float: right;
 }
 .Technical-skills-title{
  font-family: "Berlin Sans FB", serif;
@@ -118,7 +118,7 @@ float: left;
   border: 25px;
   padding: 2px;
   margin:auto;
-  float: left;
+  float: right;
 }
 .other-title{
  font-family: "Berlin Sans FB", serif;
