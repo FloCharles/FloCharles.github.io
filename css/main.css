@@ -10,7 +10,7 @@ h1{
       color: #34768E;
     
  .image{
-    position: absolute;
+    position: relative;
     padding: 100px;
   border: 30px;
     
