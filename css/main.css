@@ -136,7 +136,10 @@ h1{
 font-family: "Arial Narrow", serif;
 }
 .socialmedia-sites{
-margin-left:auto;
-margin-right: auto;
+width: 650px;
+  border: 25px;
+  padding: 2px;
+  margin:auto;
+  position: relative;
 }
  
