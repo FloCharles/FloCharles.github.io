@@ -8,6 +8,7 @@ h1{
   font-family: "Cooper Black";
       font-style: italic;
       color: #34768E;
+      align: left;
  
     
  }
@@ -130,8 +131,7 @@ font-family: "Arial Narrow", serif;
 }
 
  .socialmedia-sites{
- 
-  marging:auto;
+align:left;
   
   
   
