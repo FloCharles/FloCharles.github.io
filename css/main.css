@@ -117,6 +117,7 @@ color: #34768E;
 font-family: "Arial Narrow", serif;
 }
 .socialmedia-sites{
- margin: auto;
+
+ position: center;
 }
  
