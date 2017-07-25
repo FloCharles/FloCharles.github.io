@@ -1,6 +1,6 @@
 ul {
  
- list-style-image: url ('');
+ list-style-image: url ('http://icons.iconarchive.com/icons/fatcow/farm-fresh/32/bullet-arrow-right-icon.png');
  
  
  
@@ -118,14 +118,7 @@ color: #34768E;
  
 font-family: "Arial Narrow", serif;
 }
- .pin-bullet{
-  
-  ul:{
-   
-   list-style-image: url ('https://cdn0.iconfinder.com/data/icons/tiny-icons-1/100/tiny-08-256.png')
+
    
    
-  }}
- 
- 
  
