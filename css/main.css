@@ -10,7 +10,10 @@ h1{
       color: #34768E;
     
 }
- 
+ body{
+ float: right; 
+  
+}
 
 .background-info-title{
  font-family: "Berlin Sans FB", serif;
@@ -25,8 +28,7 @@ h1{
  width: 650px;
   border: 25px;
   padding: 2px;
-  
-float: right;
+  margin:auto;
 }
  
  
@@ -34,8 +36,7 @@ float: right;
  width: 650px;
   border: 25px;
   padding: 2px;
-  
-float: right;
+ margin: auto;
 }
   
   
@@ -55,8 +56,7 @@ float: right;
  width: 650px;
   border: 25px;
   padding: 2px;
-
-  float: right;
+margin: auto;
 }
 .Professional-Experience-title{
     
@@ -74,8 +74,7 @@ float: right;
  width: 650px;
   border: 25px;
   padding: 2px;
-
- float: right;
+ margin: auto;
 }
 
 .Non-professional-experience-title{
@@ -93,8 +92,7 @@ float: right;
  width: 650px;
   border: 25px;
   padding: 2px;
- 
-float: right;
+margin: auto;
 }
 .Technical-skills-title{
  font-family: "Berlin Sans FB", serif;
@@ -114,8 +112,7 @@ float: right;
  width: 650px;
   border: 25px;
   padding: 2px;
-  
-  float: right;
+  margin:auto;
 }
 .other-title{
  font-family: "Berlin Sans FB", serif;
