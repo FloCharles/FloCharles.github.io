@@ -1,6 +1,6 @@
 ul {
  
- list-style-image: url ('https://cdn2.iconfinder.com/data/icons/bullet-points-1/64/Bulletpoint_Bullet_Listicon_Shape_Bulletfont_Glyph_Typography_Bullet_Point_Customshape_Wingding_Custom_Direction_Right_Circle-512.png');
+ list-style-image: url ('');
  
  
  
@@ -118,7 +118,14 @@ color: #34768E;
  
 font-family: "Arial Narrow", serif;
 }
- 
+ .pin-bullet{
+  
+  ul:{
+   
+   list-style-image: url ('https://www.flaticon.com/free-icon/placeholder_149060')
+   
+   
+  }}
  
  
  
