@@ -19,10 +19,10 @@ h1{
  font-family: "Berlin Sans FB", serif;
  font-style: bold;
  color: #34768E;
- 
+}
  .background-info{
   font-family: "Arial Narrow", sans-serif;
- }
+ 
 }
 .background-info-all{
  width: 650px;
@@ -85,13 +85,13 @@ h1{
   font-family: "Berlin Sans FB", serif;
  font-style: bold;
  color: #34768E;
- 
+}
 
 .Non-professional-experience{
      font-family: "Arial Narrow", serif;
-    
-    
+        
 }
+ 
 .technical-skills-all{
  width: 650px;
   border: 25px;
