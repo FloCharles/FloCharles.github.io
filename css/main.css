@@ -9,6 +9,10 @@ h1{
       font-style: italic;
       color: #34768E;
     
+   .image{
+    
+  float:right;  
+ }
 }
  body{
  float: right; 
