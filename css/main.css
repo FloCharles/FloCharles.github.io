@@ -10,8 +10,10 @@ h1{
       color: #34768E;
     
    .image{
-    margin:left;
-    
+    margin: left;
+    width: 60%;
+    border: 1px;
+    padding: 10px;
  }
 }
  body{
