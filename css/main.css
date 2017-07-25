@@ -12,6 +12,7 @@ h1{
  .image{
     position: absolute;
     padding: 100px;
+  border: 30px;
     
  }
 }
