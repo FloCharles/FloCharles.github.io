@@ -8,7 +8,7 @@ h1{
   font-family: "Cooper Black";
       font-style: italic;
       color: #34768E;
-      align: center;
+   text-align: center;
  
     
  }
@@ -31,7 +31,7 @@ h1{
  width: 650px;
   border: 25px;
   padding: 2px;
-  margin:auto;
+ 
 }
  
  
@@ -39,7 +39,7 @@ h1{
  width: 650px;
   border: 25px;
   padding: 2px;
- margin: auto;
+ 
 }
   
   
@@ -59,7 +59,7 @@ h1{
  width: 650px;
   border: 25px;
   padding: 2px;
-margin: auto;
+
 }
 .Professional-Experience-title{
     
@@ -77,7 +77,7 @@ margin: auto;
  width: 650px;
   border: 25px;
   padding: 2px;
- margin: auto;
+
 }
 
 .Non-professional-experience-title{
@@ -95,7 +95,7 @@ margin: auto;
  width: 650px;
   border: 25px;
   padding: 2px;
-margin: auto;
+
 }
 .Technical-skills-title{
  font-family: "Berlin Sans FB", serif;
@@ -115,7 +115,7 @@ margin: auto;
  width: 650px;
   border: 25px;
   padding: 2px;
-  margin:auto;
+  
 }
 .other-title{
  font-family: "Berlin Sans FB", serif;
