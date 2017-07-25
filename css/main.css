@@ -1,4 +1,6 @@
-
+ ul { 
+ list-style-image: url('http://icons.iconarchive.com/icons/fatcow/farm-fresh/32/bullet-arrow-right-icon.png');
+    } 
  header, body, footer{
  background: linear-gradient(rgba(204, 222, 255, 0.2), rgba(146, 197, 255, 0.4));
      
