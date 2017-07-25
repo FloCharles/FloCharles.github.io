@@ -10,8 +10,8 @@ h1{
       color: #34768E;
     
    .image{
+    position:left;
     
-  float:left;  
  }
 }
  body{
