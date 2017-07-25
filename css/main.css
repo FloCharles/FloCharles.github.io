@@ -46,9 +46,9 @@ h1{
 .Education-title{
     
  font-family: "Berlin Sans FB", serif;
-  font-style: bold;
-  text-align:center;
+ font-style: bold;
  color: #34768E;
+ 
 }
 .Education {
     font-family: "Arial Narrow", sans-serif;
@@ -64,9 +64,9 @@ h1{
 .Professional-Experience-title{
     
   font-family: "Berlin Sans FB", serif;
-   text-align:center;
-    font-style: bold;
-    color: #34768E;
+ font-style: bold;
+ color: #34768E;
+ 
 } 
 .Professional-Experience{
     font-family: "Arial Narrow", sans-serif;
@@ -82,11 +82,10 @@ h1{
 }
 
 .Non-professional-experience-title{
-    font-family: "Berlin Sans FB", serif;
-    text-align:center;
-    font-style: bold;
-    color: #34768E;
-}
+  font-family: "Berlin Sans FB", serif;
+ font-style: bold;
+ color: #34768E;
+ 
 
 .Non-professional-experience{
      font-family: "Arial Narrow", serif;
@@ -102,9 +101,9 @@ h1{
 }
 .Technical-skills-title{
  font-family: "Berlin Sans FB", serif;
-color: #34768E;
-     font-style: bold;
- text-align: center;
+ font-style: bold;
+ color: #34768E;
+ 
 }
 
 
@@ -122,11 +121,10 @@ color: #34768E;
   position: relative;
 }
 .other-title{
- color: #34768E;
- text-align:center;
  font-family: "Berlin Sans FB", serif;
-
-     font-style: bold;
+ font-style: bold;
+ color: #34768E;
+ 
  
 }
 .exp-abroad{
