@@ -19,7 +19,10 @@ h1{
 }
 
 .image{
- 
+ background: transparent;
+ padding:0;
+ width: 270px;
+ height: 250px;
  border-radius: 100px;
 }
 
