@@ -10,7 +10,7 @@
 </head>
     <div>  <div class= socialmedia-sites>
   <a href= "https://www.linkedin.com/in/floriane-charles-88ba29a2/" target="_blank"> <img src= "https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png" ></a>
-<style>
+<div id= "myDiv" class= "initiallyHidden"> <style>
   #myDIV {
   background-color: transparent;
     text-align: left;
@@ -25,10 +25,10 @@
 <script>
 function myFunction() {
     var x = document.getElementById('myDIV');
-    if (x.style.display === 'block') {
-        x.style.display = 'none';
-    } else {
+    if (x.style.display === 'none') {
         x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
     }
 }
 </script>
