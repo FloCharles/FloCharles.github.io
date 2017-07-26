@@ -17,6 +17,8 @@ h1{
  align: left; 
   
 }
+.initiallyHidden { display: none; }
+
 
 .background-info-title{
  font-family: "Berlin Sans FB", serif;
