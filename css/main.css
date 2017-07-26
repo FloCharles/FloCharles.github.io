@@ -13,10 +13,8 @@ h1{
 }
 .image{
  
-    border: 1x;
-    align: right;
-    border-radius:100px;
- 
+    
+    border-radius:50%; 
  
  
  
