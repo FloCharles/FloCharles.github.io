@@ -25,11 +25,7 @@ h1{
  
  
 }
- body{
- align: left; 
-clear: right;
-}
-
+ 
 
  
 
@@ -48,7 +44,8 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
- 
+  align: left; 
+clear: right;
 }
  
  
@@ -56,7 +53,8 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
- 
+  align: left; 
+clear: right;
 }
   
   
@@ -75,7 +73,8 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
-
+align: right; 
+clear: left;
 }
 .Professional-Experience-title{
  font-family: "Monaco", serif;
@@ -92,6 +91,8 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
+  align: left; 
+clear: right;
 
 }
 
@@ -111,6 +112,8 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
+  align: right; 
+clear: left;
 
 }
 .Technical-skills-title{
@@ -131,7 +134,8 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
-  
+   align: left; 
+clear: right;
 }
 .other-title{
  font-family: "Monaco", serif;
