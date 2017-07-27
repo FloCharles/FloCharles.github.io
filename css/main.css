@@ -32,7 +32,8 @@ h1{
   height:375px;
  float:left;
  overflow: hidden;
-border-radius: 50%;
+border-radius: 20%;
+ border-bottom-right:20%;
  margin-left: 3em;
  display: inline-block;
 }
