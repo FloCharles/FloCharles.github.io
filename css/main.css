@@ -28,13 +28,12 @@ h1{
 }
  
 .ambassadors{
-  width:550px;
-  height:375px;
+  width:400px;
+  height:280px;
  float:left;
  overflow: hidden;
-border-radius: 20%;
- border-top-right:20%;
- margin-left: 3em;
+border-radius: 30%;
+  margin-left: 3em;
  display: inline-block;
 }
  
@@ -96,7 +95,11 @@ width: 650px;
     font-family: "Arial Narrow", sans-serif;
 
 }
-
+.non-professional-experience-all ul{
+ 
+ margin-left:20em;
+ 
+}
 .non-professional-experience-all{
 
   border: 25px;
