@@ -144,16 +144,19 @@ font-family: "Arial Narrow", serif;
 }
 
  .socialmedia-sites{
-text-align:center;
+
 font-family: "Arial Narrow", sans-serif;
 color: #34768E;
+   float: right;
+  position: relative;
+  left: -50%;
   display:inline-block;
   
 }
 
 .linkedin{
   
- text-align:center;
+
   display:inline-block;
 }
  
