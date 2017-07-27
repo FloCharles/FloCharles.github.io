@@ -38,7 +38,7 @@ clear: right;
  font-style: bold;
  color: #34768E;
  margin-top: 5em;
-font-size: 15px;
+font-size: 13px;
 }
  .background-info{
   font-family: "Arial Narrow", sans-serif;
@@ -65,7 +65,7 @@ font-size: 15px;
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
- 
+ font-size: 13px;
 }
 .Education {
     font-family: "Arial Narrow", sans-serif;
@@ -81,7 +81,7 @@ font-size: 15px;
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
- 
+ font-size: 13px;
 } 
 .Professional-Experience{
     font-family: "Arial Narrow", sans-serif;
@@ -99,6 +99,7 @@ font-size: 15px;
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
+ font-size: 13px;
 }
 
 .Non-professional-experience{
@@ -116,7 +117,7 @@ font-size: 15px;
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
- 
+ font-size: 13px;
 }
 
 
@@ -136,7 +137,7 @@ font-size: 15px;
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
- 
+ font-size: 13px;
  
 }
 
