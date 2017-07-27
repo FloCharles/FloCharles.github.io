@@ -131,8 +131,7 @@ width: 650px;
 width: 650px;
   border: 25px;
   padding: 2px;
-   float: right;
- clear: left;
+ 
 
 
 }
@@ -154,7 +153,8 @@ width: 650px;
  width: 650px;
   border: 25px;
   padding: 2px;
-  
+    float: right;
+ clear: left;
    
 }
 .other-title{
