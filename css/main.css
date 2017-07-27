@@ -66,9 +66,11 @@ font-size: 13px;
  
 }
 .professional-experience-all{
-
+width: 650px;
+  border: 25px;
+  padding: 2px;
 align: right; 
-clear: left;
+
 }
 .Professional-Experience-title{
  font-family: "Monaco", serif;
@@ -102,9 +104,11 @@ clear: left;
 }
  
 .technical-skills-all{
-
+width: 650px;
+  border: 25px;
+  padding: 2px;
   align: right; 
-clear: left;
+
 
 }
 .Technical-skills-title{
