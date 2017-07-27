@@ -28,10 +28,12 @@ h1{
 }
  
 .ambassadors{
-  width:430px;
-  height: 400px;
+  width:550px;
+  height:550px;
  float:left;
  overflow: hidden;
+  margin-top: 5em;
+ margin-left: 3em;
 }
  
  
