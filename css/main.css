@@ -152,7 +152,8 @@ color: #34768E;
 
 .pdf a>img
 {
- margin-left: 1em;
+ height: 35px;
+ width: 35px;
  
 }
 
