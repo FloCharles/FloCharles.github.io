@@ -33,7 +33,7 @@ h1{
  float:left;
  overflow: hidden;
 border-radius: 20%;
- border-bottom-right:20%;
+ border-top-right:20%;
  margin-left: 3em;
  display: inline-block;
 }
