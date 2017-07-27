@@ -17,6 +17,7 @@ h1{
   height: 700px;
   overflow: hidden;
   border-radius: 50%;
+ border-bottom-left-radius: 5%;
    float: right;
  
  
