@@ -12,10 +12,6 @@ h1{
  
 }
 
-body{
- 
- align: right;
- clear: left;}
 
 
 .image{
@@ -94,6 +90,7 @@ width: 650px;
  width: 650px;
   border: 25px;
   padding: 2px;
+ align: right;
   
 
 }
