@@ -147,7 +147,10 @@ font-family: "Arial Narrow", serif;
 
 font-family: "Arial Narrow", sans-serif;
 color: #34768E;
-  
+    position: absolute;
+     left: 50%;
+     transform: translateX(-50%);
+
 }
 
 .linkedin{
