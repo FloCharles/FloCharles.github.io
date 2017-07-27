@@ -27,7 +27,12 @@ h1{
   
 }
  
-
+.ambassadors{
+  width: 700px;
+  height: 700px;
+ float:left;
+}
+ 
  
 
 .background-info-title{
