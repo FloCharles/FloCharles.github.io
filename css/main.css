@@ -147,7 +147,13 @@ font-family: "Arial Narrow", serif;
 text-align:center;
 font-family: "Arial Narrow", sans-serif;
 color: #34768E;
+  display:inline-block;
   
 }
 
-
+.linkedin{
+  margin-right:3px;
+}
+ 
+ 
+ 
