@@ -21,11 +21,14 @@ h1{
    float: right;
  margin-top: 5em;
  margin-right: 5em;
- 
- 
- 
+  
 }
- 
+ body {
+  
+  align: right; 
+clear: left;
+  
+}
 
  
 
@@ -44,8 +47,7 @@ font-size: 13px;
  width: 650px;
   border: 25px;
   padding: 2px;
-  align: left; 
-clear: right;
+  
 }
  
  
@@ -53,8 +55,7 @@ clear: right;
  width: 650px;
   border: 25px;
   padding: 2px;
-  align: left; 
-clear: right;
+  
 }
   
   
@@ -91,8 +92,7 @@ clear: left;
  width: 650px;
   border: 25px;
   padding: 2px;
-  align: left; 
-clear: right;
+  
 
 }
 
@@ -134,8 +134,7 @@ clear: left;
  width: 650px;
   border: 25px;
   padding: 2px;
-   align: left; 
-clear: right;
+   
 }
 .other-title{
  font-family: "Monaco", serif;
