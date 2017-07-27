@@ -163,6 +163,7 @@ width: 650px;
  font-style: bold;
  color: #34768E;
  font-size: 13px;
+ display: inline-block;
  
 }
 
@@ -191,4 +192,13 @@ display:inline-block;
  margin-right: 0.65em;
 }
  
- 
+ .map{  
+ width:400px;
+ height:280px;
+ float:left;
+ overflow: hidden;
+ margin-left: 3em;
+ display: inline-block;
+    
+}
+  
