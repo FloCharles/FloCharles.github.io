@@ -6,157 +6,135 @@ ul{
 
 h1{    
   font-family: "Cooper Black";
-      font-style: italic;
-      color: #34768E;
-   text-align: center;
- 
-}
-
-
+  font-style: italic;
+  color: #34768E;
+  text-align: center;
+  }
 
 .image{
- 
-  width: 550px;
-  height: 550px;
-  overflow: hidden;
-  border-radius: 50%;
+ width: 550px;
+ height: 550px;
+ overflow: hidden;
+ border-radius: 50%;
  border-bottom-left-radius: 5%;
-   float: right;
+ float: right;
  margin-top: 5em;
  margin-right: 5em;
-  
-}
+ }
  
 .ambassadors{
-  width:400px;
-  height:280px;
+ width:400px;
+ height:280px;
  float:left;
  overflow: hidden;
-border-radius: 30%;
-  margin-left: 3em;
+ border-radius: 30%;
+ margin-left: 3em;
  display: inline-block;
-}
+ }
  
  
-
 .background-info-title{
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
  margin-top: 5em;
-font-size: 13px;
+ font-size: 13px;
 }
- .background-info{
-  font-family: "Arial Narrow", sans-serif;
  
-}
+.background-info{
+  font-family: "Arial Narrow", sans-serif;
+ }
+
 .background-info-all{
- width: 650px;
+  width: 650px;
   border: 25px;
   padding: 2px;
-  
-}
+  }
  
- 
- .education-all{
- width: 650px;
+.education-all{
+  width: 650px;
   border: 25px;
   padding: 2px;
   margin-top: 3em;
-}
-  
+  }
   
 
 .Education-title{
- font-family: "Monaco", serif;
- font-style: bold;
- color: #34768E;
- font-size: 13px;
+  font-family: "Monaco", serif;
+  font-style: bold;
+  color: #34768E;
+  font-size: 13px;
 }
+
 .Education {
-    font-family: "Arial Narrow", sans-serif;
- 
-}
+  font-family: "Arial Narrow", sans-serif;
+ }
+
 .professional-experience-all{
-width: 650px;
+  width: 650px;
   border: 25px;
   padding: 2px;
- margin-top: 30em;
-
-
+  margin-top: 30em;
 }
-.Professional-Experience-title{
- font-family: "Monaco", serif;
- font-style: bold;
- color: #34768E;
- font-size: 13px;
-} 
-.Professional-Experience{
-    font-family: "Arial Narrow", sans-serif;
 
+.Professional-Experience-title{
+  font-family: "Monaco", serif;
+  font-style: bold;
+  color: #34768E;
+  font-size: 13px;
+} 
+
+.Professional-Experience{
+ font-family: "Arial Narrow", sans-serif;
 }
 
 .non-prof-list{
- 
- margin-left: 28em;
- 
- 
- 
-}
-.non-professional-experience-all{
+  margin-left: 28em;
+  }
 
+.non-professional-experience-all{
   border: 25px;
   padding: 2px;
- float: right;
-
- display: inline-block;
-
-  
-
-}
+  float: right;
+  display: inline-block;
+  }
 
 .Non-professional-experience-title{
  font-family: "Monaco", serif;
  font-style: bold;
  color: #34768E;
  font-size: 13px;
-margin-left:36em;
-}
+ margin-left:36em;
+ }
 
 .Non-professional-experience{
-     font-family: "Arial Narrow", serif;
-        
-}
+  font-family: "Arial Narrow", serif;
+  }
  
 .technical-skills-all{
-width: 650px;
+  width: 650px;
   border: 25px;
   padding: 2px;
- 
+ }
 
-
-}
 .Technical-skills-title{
- font-family: "Monaco", serif;
- font-style: bold;
- color: #34768E;
- font-size: 13px;
-}
+  font-family: "Monaco", serif;
+  font-style: bold;
+  color: #34768E;
+  font-size: 13px;
+  }
 
 
 .Technical-skills{
-    
- font-family: "Arial Narrow", serif;
-    
-    
-}
-.other-all{
+  font-family: "Arial Narrow", serif;
+  }
 
+.other-all{
   border: 25px;
   padding: 2px;
- 
-   
-}
+  }
+
+
 .other-title{
  font-family: "Monaco", serif;
  font-style: bold;
@@ -164,46 +142,40 @@ width: 650px;
  font-size: 13px;
  display: inline-block;
  margin-left:38em;
-}
+ }
 
 .other{
- 
-font-family: "Arial Narrow", serif;
-}
+ font-family: "Arial Narrow", serif;
+ }
 
  .socialmedia-sites{
-
-font-family: "Arial Narrow", sans-serif;
-color: #34768E;
-display:inline-block;
-position: absolute;
-left: 50%;
-transform: translateX(-50%);
-}
+  font-family: "Arial Narrow", sans-serif;
+  color: #34768E;
+  display:inline-block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  }
 
 .linkedin{
-display:inline-block;
+ display:inline-block;
  margin-right: 1em;
-}
+ }
  
- .pdf{
+.pdf{
   display:inline-block;
- margin-right: 0.65em;
-}
+  margin-right: 0.65em;
+  }
  
- .map{  
- width:400px;
- height:280px;
- float:left;
- overflow: hidden;
- margin-left: 3em;
- display: inline-block;
-    
-}
-  .other-list{
- 
+.map{  
+  width:400px;
+  height:280px;
+  float:left;
+  overflow: hidden;
+  margin-left: 3em;
+  display: inline-block;
+  }
+  
+.other-list{
  margin-left: 30em;
- 
- 
- 
-}
+ }
