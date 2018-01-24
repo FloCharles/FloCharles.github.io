@@ -1,12 +1,12 @@
 .container {
   display: grid;
-  grid-columns: 1fr 2fr 1fr;
+  grid-columns: [line1] 1fr [line2] 2fr [line3] 1fr;
   grid-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
 .head {
   grid-column-start: 2;
   grid-column-end: 3;
-  grid-column-start: row1-start;
+  grid-column-start: 1;
   grid-column-end:2;
 }
