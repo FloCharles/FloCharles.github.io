@@ -1,7 +1,7 @@
 .container {
   display: grid;
-  grid-columns: 1fr 5fr 1fr;
-  grid-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-columns:1fr 1fr 1fr 1fr 1fr ;
+  grid-rows: 1fr 5fr 1fr;
 }
 
 .item-a {
@@ -17,4 +17,11 @@
   grid-column-end: 3;
   grid-column-start: 1;
   grid-column-end:2;
+}
+
+.item-b {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 2;
+  grid-row-end:3;
 }
