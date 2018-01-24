@@ -1,7 +1,7 @@
 .container {
   display: grid;
-  grid-columns: [line1] 1fr [line2] 2fr [line3] 1fr;
-  grid-rows: [row1] 1fr [row2] 1fr [row3] 1fr [row4] 1fr [row5] 1fr;
+  grid-columns: 1fr 5fr 1fr;
+  grid-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
 .head {
