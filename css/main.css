@@ -1,6 +1,6 @@
 .allwebsite {
   display: grid;
-  grid-template-columns: 25% 25% 25% 25% ;
+  grid-template-columns: 25% 50% 25% ;
   grid-template-rows: 20% 16% 16% 16% 16% 16% ;
 }
 
