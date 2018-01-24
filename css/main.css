@@ -4,7 +4,15 @@
   grid-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
-.head {
+.item-a {
+  grid-area: head;
+}
+
+.item-b {
+  grid-area: body
+}
+
+.item-a {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-column-start: 1;
