@@ -1,6 +1,6 @@
-display: grid
-
-grid-template-columns: 
-
-grid-template-rows: 
+.container {
+  display: grid;
+  grid-columns: 1fr 2fr 1fr;
+  grid-rows: 1fr 1fr 1fr 1fr 1fr;
+}
 
