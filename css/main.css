@@ -4,3 +4,9 @@
   grid-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
+.head {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-column-start: 1;
+  grid-column-end:2;
+}
