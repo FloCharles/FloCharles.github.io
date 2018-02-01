@@ -57,7 +57,7 @@
  color: #A9A9A9
   }
    
-   .others-all {
+   .other-all {
   grid-column-start: 1;
   grid-column-end: span 2;
   grid-row-start: 7;
