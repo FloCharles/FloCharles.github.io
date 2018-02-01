@@ -1,14 +1,11 @@
 .allwebsite {
   display: grid;
   grid-template-columns: 25% 50% 25% ;
-  grid-template-rows: 1.5fr 1fr 1fr 1fr 1fr 1fr ;
+  grid-template-rows: 1.5fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
   background-color: #fff;
   
 }
-
-
  
-  
 .head {
   grid-column-start: 2;
   grid-column-end: span 1;
@@ -33,3 +30,41 @@
   grid-row-end: 4;
  color: #A9A9A9
 }
+
+
+.professional-experience-all {
+  grid-column-start: 1;
+  grid-column-end: span 2;
+  grid-row-start: 4;
+  grid-row-end: 5;
+ color: #A9A9A9
+}
+
+
+.education-all {
+   grid-column-start: 1;
+  grid-column-end: span 2;
+  grid-row-start: 5;
+  grid-row-end: 6;
+ color: #A9A9A9
+   
+   
+  .technical-skills-all{
+    
+  grid-column-start: 1;
+  grid-column-end: span 2;
+  grid-row-start: 6;
+  grid-row-end: 7;
+ color: #A9A9A9
+   
+   .others-all{
+  grid-column-start: 1;
+  grid-column-end: span 2;
+  grid-row-start: 7;
+  grid-row-end: 8;
+ color: #A9A9A9
+
+
+
+
+  
