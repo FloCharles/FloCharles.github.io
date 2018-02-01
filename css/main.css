@@ -53,6 +53,10 @@
  color: #000
 }
 
+.non-professional-experience-title {
+   color: #df7685 
+}
+
 
 .professional-experience-all {
   grid-column-start: 2;
@@ -60,6 +64,10 @@
   grid-row-start: 4;
   grid-row-end: 5;
  color: #000
+}
+
+professional-experience-title {
+  color: #df7685 
 }
 
 
@@ -71,6 +79,9 @@
  color: #000
 }
 
+.education-title {
+   color: #df7685 
+}
  
  .technical-skills-all {
   grid-column-start: 2;
@@ -80,6 +91,9 @@
  color: #000
   }
    
+.technical-skills-title {
+   color: #df7685 
+}
 
 
 
@@ -89,6 +103,10 @@
   grid-row-start: 7;
   grid-row-end: 8;
  color: #000
+}
+
+other-title {
+   color: #df7685 
 }
 
 
