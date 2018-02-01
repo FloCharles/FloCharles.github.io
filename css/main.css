@@ -11,7 +11,7 @@
   grid-column-end: span 2;
   grid-row-start: 1;
   grid-row-end: span 1;
-  color: #c20b3a;
+  color: #a20931;
   font-family: Arial, sans-serif;
 }
 
@@ -22,6 +22,10 @@
   grid-row-end: span 1;
 }
 
+.background-info-title{
+  color: de91d3;
+}
+
 .background-info-all{
   grid-column-start: 2;
   grid-column-end: span 3;
@@ -30,6 +34,9 @@
   color: #078783
 }
 
+.non-professional-experience-title {
+    color: de91d3;
+}
 
 .non-professional-experience-all {
   grid-column-start: 2;
@@ -37,6 +44,10 @@
   grid-row-start: 3;
   grid-row-end: 4;
  color: #641cef
+}
+
+.professional-experience-title {
+    color: de91d3;
 }
 
 
@@ -48,6 +59,9 @@
  color: #641cef
 }
 
+.education-title {
+    color: de91d3;
+}
 
 .education-all {
    grid-column-start: 2;
@@ -55,6 +69,10 @@
   grid-row-start: 5;
   grid-row-end: 6;
  color: #641cef
+}
+
+technical-skills-title {
+    color: de91d3;
 }
    
  .technical-skills-all {
@@ -65,6 +83,11 @@
  color: #641cef
   }
    
+.other-title {
+    color: de91d3;
+}
+
+
    .other-all {
   grid-column-start: 2;
   grid-column-end: span 3;
