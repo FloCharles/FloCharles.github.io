@@ -49,15 +49,14 @@
  color: #A9A9A9
    
    
-  .technical-skills-all{
-    
+  .technical-skills-all {
   grid-column-start: 1;
   grid-column-end: span 2;
   grid-row-start: 6;
   grid-row-end: 7;
  color: #A9A9A9
    
-   .others-all{
+   .others-all {
   grid-column-start: 1;
   grid-column-end: span 2;
   grid-row-start: 7;
