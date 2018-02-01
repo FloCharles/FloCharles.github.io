@@ -29,9 +29,19 @@
   grid-column-end: span 3;
   grid-row-start: 2;
   grid-row-end: 3;
+ }
+
+.background-info {
+  grid-column-start: 2;
+  grid-column-end: span 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
   color: #000
 }
 
+.background-info-title {
+  color: df7685 
+}
 
 
 .non-professional-experience-all {
