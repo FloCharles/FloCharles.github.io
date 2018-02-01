@@ -23,14 +23,6 @@
 }
 
 
-
-.background-info-all {
-  grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 2;
-  grid-row-end: 3;
-   }
-
 .background-info {
   grid-column-start: 2;
   grid-column-end: span 3;
