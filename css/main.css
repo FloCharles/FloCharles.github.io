@@ -33,12 +33,14 @@
 .background-info {
   grid-column-start: 2;
   grid-column-end: span 3;
+  grid-row-start: 2;
+  grid-row-end: 3
   color: #000
   
 }
 
 .background-info-title {
-    grid-column-start: 3;
+  grid-column-start: 3;
   grid-column-end: span 1;
   color: #df7685 
 }
