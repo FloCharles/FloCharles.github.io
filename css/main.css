@@ -26,7 +26,7 @@
   color: de91d3;
 }
 
-.background-info-all{
+.background-info {
   grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 2;
@@ -38,7 +38,7 @@
     color: de91d3;
 }
 
-.non-professional-experience-all {
+.non-professional-experience {
   grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 3;
@@ -51,7 +51,7 @@
 }
 
 
-.professional-experience-all {
+.professional-experience {
   grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 4;
@@ -63,7 +63,7 @@
     color: de91d3;
 }
 
-.education-all {
+.education {
    grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 5;
@@ -75,7 +75,7 @@ technical-skills-title {
     color: de91d3;
 }
    
- .technical-skills-all {
+ .technical-skills {
   grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 6;
@@ -88,7 +88,7 @@ technical-skills-title {
 }
 
 
-   .other-all {
+   .other {
   grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 7;
