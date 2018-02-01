@@ -2,7 +2,10 @@
   display: grid;
   grid-template-columns: 25% 50% 25% ;
   grid-template-rows: 1.5fr 1fr 1fr 1fr 1fr 1fr ;
+  background-color: #fff;
+  
 }
+
 
  
   
@@ -10,14 +13,16 @@
   grid-column-start: 2;
   grid-column-end: span 1;
   grid-row-start: 1;
-  grid-row-end: span 1
+  grid-row-end: span 1;
+  color: #A9A9A9
 }
 
 .background-all{
    grid-column-start: 1;
   grid-column-end: span 2;
   grid-row-start: 2;
-  grid-row-end: 3
+  grid-row-end: 3;
+  color: #A9A9A9
 }
 
 
@@ -25,5 +30,6 @@
   grid-column-start: 1;
   grid-column-end: span 2;
   grid-row-start: 3;
-  grid-row-end: 4
+  grid-row-end: 4;
+ color: #A9A9A9
 }
