@@ -19,7 +19,7 @@
   grid-column-end: span 1;
   grid-row-start: 2;
   grid-row-end: 3;
-  color: #00cccc
+  color: #641cef
 }
 
 
@@ -28,7 +28,7 @@
   grid-column-end: span 1;
   grid-row-start: 3;
   grid-row-end: 4;
- color: #A9A9A9
+ color: #641cef
 }
 
 
@@ -37,7 +37,7 @@
   grid-column-end: span 1;
   grid-row-start: 4;
   grid-row-end: 5;
- color: #A9A9A9
+ color: #641cef
 }
 
 
@@ -46,7 +46,7 @@
   grid-column-end: span 1;
   grid-row-start: 5;
   grid-row-end: 6;
- color: #A9A9A9
+ color: #641cef
 }
    
  .technical-skills-all {
@@ -54,7 +54,7 @@
   grid-column-end: span 1;
   grid-row-start: 6;
   grid-row-end: 7;
- color: #A9A9A9
+ color: #641cef
   }
    
    .other-all {
@@ -62,7 +62,7 @@
   grid-column-end: span 1;
   grid-row-start: 7;
   grid-row-end: 8;
- color: #A9A9A9
+ color: #641cef
 
 
 
