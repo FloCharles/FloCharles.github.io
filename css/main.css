@@ -15,7 +15,7 @@
 }
 
 .socialmedia-sites {
-  grid-column-start: 3;
+  grid-column-start: 4;
    grid-column-end: span 1;
   grid-row-start: 1;
   grid-row-end: span 1;
