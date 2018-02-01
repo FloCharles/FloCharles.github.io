@@ -41,7 +41,7 @@
 
 .professional-experience-all {
   grid-column-start: 2;
-  grid-column-end: span 3
+  grid-column-end: span 3;
   grid-row-start: 4;
   grid-row-end: 5;
  color: #641cef
