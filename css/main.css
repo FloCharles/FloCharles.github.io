@@ -41,6 +41,8 @@
 }
 
 .background-info-title {
+    grid-column-start: 3;
+  grid-column-end: span 1;
   color: #df7685 
 }
 
