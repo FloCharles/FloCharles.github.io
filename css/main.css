@@ -32,7 +32,7 @@
 
 .non-professional-experience-all {
   grid-column-start: 2;
-  grid-column-end: span 3;
+  grid-column-end: span 4;
   grid-row-start: 3;
   grid-row-end: 4;
  color: #641cef
