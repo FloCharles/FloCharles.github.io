@@ -16,12 +16,6 @@
   font-size: 20pt
 }
 
-.body {
-  display: flex;
-  text-align: center
-}
-
-
 .picture{
   grid-column-start: 4;
   grid-column-end: 5;
