@@ -23,6 +23,12 @@
   grid-row-end: 2
 }  
 
+
+.socialmedia-sites {
+  grid-column-start: 1;
+  grid-column-end: span 1;
+}
+
 .linkedin {
   grid-column-start: 1;
   grid-column-end: 2;
