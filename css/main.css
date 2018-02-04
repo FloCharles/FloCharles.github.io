@@ -27,34 +27,7 @@
 .socialmedia-sites {
   grid-column-start: 1;
   grid-column-end: span 1;
-}
-
-.linkedin {
-  grid-column-start: 1;
-  grid-column-end: 2;
   grid-row-start: 1;
-  grid-row-end: span 1
-}
-
-.pdf {
-   grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 2;
-  grid-row-end: span 1
-}
-
-
-.gmail {
-   grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 3;
-  grid-row-end: span 1
-}
-
-.phone {
-   grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 4;
   grid-row-end: span 1
 }
 
