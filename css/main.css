@@ -20,9 +20,9 @@
 
 .picture{
   grid-column-start: 4;
-  grid-column-end: span 1;
+  grid-column-end: 5;
   grid-row-start: 1;
-  grid-row-end: span 1
+  grid-row-end: 2
 }  
   
 .socialmedia-sites {
