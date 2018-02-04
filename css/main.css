@@ -10,7 +10,7 @@
   dispay: flex;
   align-items: center;
   grid-column-start: 1;
-  grid-column-end: span 1;
+  grid-column-end: span 2;
   grid-row-start: 1;
   grid-row-end: span 1;
   color: #a20931;
