@@ -83,6 +83,7 @@
   grid-column-end: span 3;
   grid-row-start: 4;
   grid-row-end: 5;
+  overflow:scroll
 
 }
 .professional-experience {
@@ -103,6 +104,7 @@
   grid-column-end: span 2;
   grid-row-start: 5;
   grid-row-end: 6;
+  overflow:scroll
  }
 .education {
   grid-column-start: 2;
@@ -123,6 +125,7 @@
   grid-column-end: span 3;
   grid-row-start: 6;
   grid-row-end: 7;
+   overflow:scroll
   }
 
 .technicall-skills {
@@ -143,6 +146,7 @@
   grid-column-end: span 3;
   grid-row-start: 7;
   grid-row-end: 8;
+   overflow:scroll
 
 }
 
