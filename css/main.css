@@ -50,7 +50,7 @@
 .background-info-title {
   grid-column-start: 3;
   grid-column-end: span 1;
-  color: #df7685 
+  color:#ffdb4d 
 }
 
 
@@ -72,7 +72,7 @@
   
 
 .Non-professional-experience-title {
-   color: #df7685 
+   color: #ffdb4d
 }
 
 
@@ -92,7 +92,7 @@
 }
 
 .Professional-Experience-title {
-  color: #df7685 
+  color: #ffdb4d
 }
 
 
@@ -113,7 +113,7 @@
 
   
 .Education-title {
-   color: #df7685 
+   color: #ffdb4d
 }
  
  .technical-skills-all {
@@ -132,7 +132,7 @@
 }
    
 .Technical-skills-title {
-   color: #df7685 
+   color: #ffdb4d
 }
 
 
@@ -154,7 +154,7 @@
 }
 
 .other-title {
-   color: #df7685 
+   color: #ffdb4d 
 }
 
 
