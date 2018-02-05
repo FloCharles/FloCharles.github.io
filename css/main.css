@@ -4,10 +4,10 @@
   grid-template-rows: 300px 250px 250px 250px 250px 250px 250px 250px;
   background-color: #fff;
   grid-template-areas: 
-    "a a a a b b b b"
-    "a a a a b b b b"
-    "c c c c d d d d"
-    "c c c c d d d d";
+    "a a a a a a a a"
+    "a a a a a a a a"
+    "b b b b b b b b"
+    "b b b b b b b b";
 }
  
 .title {
@@ -15,13 +15,14 @@
   grid-column-end: span 2;
   grid-row-start: 1;
   grid-row-end: span 1;
+  grid-area: a;
   color: #a20931;
   font-family: Arial, sans-serif;
   font-size: 20pt
 }
 
 .socialmedia-sites {
-  grid-area: c, d;
+  grid-area: b;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 1;
