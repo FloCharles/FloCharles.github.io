@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20% ;
   grid-template-rows: 300px 250px 250px 250px 250px 250px 250px 250px;
-  background-color: #fff;
+  background-color: #F0F0F0;
 }
  
 .title {
