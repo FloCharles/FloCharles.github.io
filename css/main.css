@@ -67,7 +67,8 @@
   grid-column-end: span 4;
   grid-row-start: 3;
   grid-row-end: 4;
- color: #000
+ color: #000;
+ overflow:scroll
 }
   
 
