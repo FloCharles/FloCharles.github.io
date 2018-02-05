@@ -3,7 +3,11 @@
   grid-template-columns: 20% 20% 20% 20% 20% ;
   grid-template-rows: 300px 250px 250px 250px 250px 250px 250px 250px;
   background-color: #fff;
-  
+  grid-template-areas: 
+    "a a a a b b b b"
+    "a a a a b b b b"
+    "c c c c d d d d"
+    "c c c c d d d d";
 }
  
 .title {
@@ -17,7 +21,7 @@
 }
 
 .socialmedia-sites {
-  justify-self: center;
+  grid-area: c, d;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 1;
