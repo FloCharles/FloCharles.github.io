@@ -98,7 +98,7 @@
 
 .education-all {
    grid-column-start: 2;
-  grid-column-end: span 3;
+  grid-column-end: span 4;
   grid-row-start: 5;
   grid-row-end: 6;
 
