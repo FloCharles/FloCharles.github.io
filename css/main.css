@@ -55,7 +55,7 @@
 
 
 .non-professional-experience-all {
-  grid-column-start: 1;
+  grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 3;
   grid-row-end: 4;
@@ -63,7 +63,7 @@
 }
 
 .non-professional-experience {
-   grid-column-start: 1;
+   grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 3;
   grid-row-end: 4;
@@ -77,14 +77,14 @@
 
 
 .professional-experience-all {
-  grid-column-start: 3;
+  grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 4;
   grid-row-end: 5;
 
 }
 .professional-experience {
-   grid-column-start: 3;
+   grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 4;
   grid-row-end: 5;
@@ -97,14 +97,14 @@
 
 
 .education-all {
-   grid-column-start: 1;
+   grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 5;
   grid-row-end: 6;
 
 }
 .education {
-  grid-column-start: 1;
+  grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 5;
   grid-row-end: 6;
@@ -117,14 +117,14 @@
 }
  
  .technical-skills-all {
-  grid-column-start: 3;
+  grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 6;
   grid-row-end: 7;
   }
 
 .technicall-skills {
-  grid-column-start: 3;
+  grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 6;
   grid-row-end: 7;
@@ -137,7 +137,7 @@
 
 
  .other-all {
-  grid-column-start: 1;
+  grid-column-start: 2;
   grid-column-end: span 3;
   grid-row-start: 7;
   grid-row-end: 8;
@@ -145,7 +145,7 @@
 }
 
 .other {
-   grid-column-start: 1;
+   grid-column-start: 2;
   grid-column-end: span 4;
   grid-row-start: 7;
   grid-row-end: 8;
