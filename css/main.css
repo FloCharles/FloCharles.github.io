@@ -2,9 +2,9 @@
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20% ;
   grid-template-rows: 300px 250px 250px 250px 250px 250px 250px 250px;
-  background-color: #F0F0F0;
+  background-color: #915186FF;
 }
- 
+
 .title {
   grid-column-start: 2;
   grid-column-end: span 2;
@@ -28,7 +28,7 @@
   grid-column-end: 5;
   grid-row-start: 1;
   grid-row-end: 2
-}  
+}
 
 
 .background-info-all {
@@ -45,7 +45,7 @@
   grid-row-start: 2;
   grid-row-end: 3
   color: #000
-  
+
 }
 
 .background-info-title {
@@ -62,7 +62,7 @@
   grid-row-end: 4;
   overflow:scroll;
   background-color: #fff
- 
+
 }
 
 .non-professional-experience {
@@ -73,7 +73,7 @@
  color: #000;
 
 }
-  
+
 
 .Non-professional-experience-title {
    color: #ffcc00
@@ -118,11 +118,11 @@
  overflow:scroll
 }
 
-  
+
 .Education-title {
    color: #ffcc00
 }
- 
+
  .technical-skills-all {
   grid-column-start: 2;
   grid-column-end: span 2;
@@ -138,7 +138,7 @@
   grid-row-end: 7;
  color: #000
 }
-   
+
 .Technical-skills-title {
    color: #ffcc00
 }
@@ -164,8 +164,3 @@
 .other-title {
    color: #ffcc00
 }
-
-
-
-
-  
