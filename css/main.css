@@ -2,9 +2,9 @@
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20% ;
   grid-template-rows: 300px 250px 250px 250px 250px 250px 250px 250px;
-  background-color: #F0F0F0;
+  background-color: #B0589C;
 }
- 
+
 .title {
   grid-column-start: 2;
   grid-column-end: span 2;
@@ -23,149 +23,13 @@
   grid-row-end: 3
 }
 
-.picture {
-  grid-column-start: 4;
+
+.credential {
+  display: inline-block;
+  grid-column-start:4;
   grid-column-end: 5;
-  grid-row-start: 1;
-  grid-row-end: 2
-}  
-
-
-.background-info-all {
-  grid-column-start: 2;
-  grid-column-end: span 2;
   grid-row-start: 2;
   grid-row-end: 3;
-  background-color: #fff
 }
 
-.background-info {
-  grid-column-start: 2;
-  grid-column-end: span 4;
-  grid-row-start: 2;
-  grid-row-end: 3
-  color: #000
-  
-}
-
-.background-info-title {
-  grid-column-start: 3;
-  grid-column-end: span 1;
-  color: #ffcc00
-}
-
-
-.non-professional-experience-all {
-  grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 3;
-  grid-row-end: 4;
-  overflow:scroll;
-  background-color: #fff
- 
-}
-
-.non-professional-experience {
-   grid-column-start: 2;
-  grid-column-end: span 4;
-  grid-row-start: 3;
-  grid-row-end: 4;
- color: #000;
-
-}
-  
-
-.Non-professional-experience-title {
-   color: #ffcc00
-}
-
-
-.professional-experience-all {
-  grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 4;
-  grid-row-end: 5;
-  background-color: #fff
-
-}
-.professional-experience {
-   grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 4;
-  grid-row-end: 5;
- color: #000
-}
-
-.Professional-Experience-title {
-  color: #ffcc00
-}
-
-
-.education-all {
-   grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 5;
-  grid-row-end: 6;
-  overflow:scroll;
-  background-color: #fff
- }
-.education {
-  grid-column-start: 2;
-  grid-column-end: span 4;
-  grid-row-start: 5;
-  grid-row-end: 6;
-  color: #000;
- overflow:scroll
-}
-
-  
-.Education-title {
-   color: #ffcc00
-}
- 
- .technical-skills-all {
-  grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 6;
-  grid-row-end: 7;
-   background-color: #fff
-  }
-
-.technicall-skills {
-  grid-column-start: 2;
-  grid-column-end: span 4;
-  grid-row-start: 6;
-  grid-row-end: 7;
- color: #000
-}
-   
-.Technical-skills-title {
-   color: #ffcc00
-}
-
-
- .other-all {
-  grid-column-start: 2;
-  grid-column-end: span 2;
-  grid-row-start: 7;
-  grid-row-end: 8;
-   background-color: #fff
-
-}
-
-.other {
-   grid-column-start: 2;
-  grid-column-end: span 4;
-  grid-row-start: 7;
-  grid-row-end: 8;
- color: #000
-}
-
-.other-title {
-   color: #ffcc00
-}
-
-
-
-
-  
+ .
